@@ -12,7 +12,7 @@ Then slice of lowest weight is (1,4,7) which has sum 12.
 """
 #####################################################################################
 # my solution:
-# dfs
+# idea: dfs
 
 
 class Solution(object):
