@@ -4,7 +4,7 @@
 #   reverse part array
 #   7. Reverse Integer
 #   151. Reverse Words in a String
-
+#   206. Reverse Linked List
 #####################################################################################
 # my solution:
 # idea: s[::-1] / reversed() / two pointers
